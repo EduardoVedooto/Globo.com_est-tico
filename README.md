@@ -1,5 +1,5 @@
-# Globo.com estatico
+# Frontpage Globo.com Static
 
 Primeiro Projeto do Bootcamp Fullstack Responde Aí!
 
-Utilizando conceitos de HTML e CSS.
+Utilizando apenas conceitos de HTML e CSS.
