@@ -1,4 +1,4 @@
-# Globo.com_estatico
+# Globo.com estatico
 
 Primeiro Projeto do Bootcamp Fullstack Responde Aí!
 
