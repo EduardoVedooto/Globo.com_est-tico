@@ -1,2 +1,5 @@
-# Globo.com_est-tico
-Created with CodeSandbox
+# Globo.com_estatico
+
+Primeiro Projeto do Bootcamp Fullstack Responde Aí!
+
+Utilizando conceitos de HTML e CSS.
